@@ -1,8 +1,5 @@
 
 
-```markdown
-
-
 # Aditya Anand's First CS193 Homework
 
 - It is a laid back class
